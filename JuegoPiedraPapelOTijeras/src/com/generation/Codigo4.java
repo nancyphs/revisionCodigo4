@@ -1,3 +1,8 @@
+/**
+ * Este programa permite jugar "Piedra, papel o tijeras" entre dos jugadores.
+ * Se solicita la entrada de ambos jugadores y se determina el ganador o si hay un empate.
+ */
+
 package com.generation;
 /**
  * Para hacer el codigo mas ordenado y facil de modificar, se separo en dos archivos: Codigo4.java y Jugada.java. 
